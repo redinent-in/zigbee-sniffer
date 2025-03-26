@@ -1,6 +1,6 @@
 # Zigbee Sniffer
 
-A Python-based tool for capturing and analyzing Zigbee network traffic using an nRF52840 device.  Based on https://github.com/expliot-framework/expliot. 
+A simple Python-based tool for capturing and analyzing Zigbee network traffic using an nRF52840 Dongle.  Based on https://github.com/expliot-framework/expliot. 
 
 
 ## Features
