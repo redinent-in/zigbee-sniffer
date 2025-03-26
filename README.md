@@ -46,7 +46,7 @@ Options:
 - `--duration`: Capture duration in seconds (optional)
 - `--live-save`: Enable live saving to Elasticsearch
 
-#Results
+## Results
 
 ```bash
 python3 zigbee_sniffer.py -c 24 
