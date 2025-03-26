@@ -1,0 +1,10 @@
+elasticsearch:
+  hosts: ["http://localhost:9200"]
+  # Uncomment and modify these if you need authentication
+  # basic_auth:
+  #   username: "elastic"
+  #   password: "your_password"
+  # ssl:
+  #   verify_certs: true
+  #   ca_certs: "/path/to/ca.crt"
+
